@@ -13,7 +13,7 @@ It also now includes Xmodem file transfers. This only works on 8K+ expanded VIC-
 - Possibility to connect at **300** / **600** / **1200** baud
 - Beep when receiving **chr(7)**
 - Toggle **B&W** / **Classic** colors
-- Xmodem uploads and downloads
+- **Xmodem** uploads and downloads
 
 ## How to compile
 Run **build.sh** script. **CC65** compiler is required. It will generate one **.prg** executable file, the one mentioned above.
