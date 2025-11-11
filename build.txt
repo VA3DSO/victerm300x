@@ -1,0 +1,4 @@
+del victerm
+write victerm.prg victerm
+quit
+
